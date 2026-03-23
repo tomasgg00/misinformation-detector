@@ -1,0 +1,53 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# environment
+.env
+*.env
+venv/
+env/
+
+# data (too large / sensitive)
+data/raw/
+data/processed/
+
+# model weights
+models/
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+
+# the original cloned repos
+_raw/
+
+# logs and outputs
+*.log
+logs/
+outputs/
+wandb/
+lightning_logs/
+runs/
+
+# results plots (regeneratable)
+results/**/*.png
+results/**/*.jpg
+
+# jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# claude code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# python packaging
+*.egg-info/
+dist/
+build/
