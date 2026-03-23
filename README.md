@@ -6,6 +6,8 @@ MSc in Business Administration and Data Science — Copenhagen Business School, 
 Authors: William Keller Boll, Tomás Graça Gonçalves
 Supervisor: Raghava Rao Mukkamala
 
+📄 **[Read the full thesis](./40493_Masters_Thesis_Boll_Goncalves.pdf)**
+
 > **Disclaimer:** This repository contains examples of derogatory language and narratives that are offensive and misleading. Such content is included solely for academic research purposes and does not reflect the views or values of the authors.
 
 ---
